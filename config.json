@@ -1,12 +1,12 @@
 {
   "repo": {
-    "name": "UTM Repository",
-    "identifier": "com.utmapp.repos.UTM",
-    "subtitle": "Virtual machines for iOS",
-    "website": "https://getutm.app",
+    "name": "Nezus Hub Repository",
+    "identifier": "com.soufgame.nezushub",
+    "subtitle": "Best Repo To download Icloud Shortcut",
+    "website": "discord.gg/iflux",
     "tintColor": "#1a2cc2",
     "featuredApps": [
-        "com.utmapp.UTM"
+        "com.soufgame.nezus"
     ]
   },
   "apps": [
